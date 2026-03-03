@@ -9,7 +9,8 @@ University: Coventry University
 
 ## Project Overview
 This project analyzes crime patterns using Machine learning and big data.
-The dataset was prepared in Excel and visualized using interactive dashboards.
+The models used are: Logistic regression, Decision trees, Random forest, Gradient boosted trees, and an unsupervised KMeans clustering
+The dataset was prepared in Excel, analysed in google colab and visualized using interactive dashboards.
 
 ## Files Included
 - tableau/crime_dashboard.twbx – Tableau packaged workbook
@@ -27,4 +28,4 @@ The dataset was prepared in Excel and visualized using interactive dashboards.
 
 ## Project Code Drive
 GitHub Repository:
-https://github.com/your-username/crime_arrest_analysis
+https://github.com/Gitu-J/crime_arrest_analysis
